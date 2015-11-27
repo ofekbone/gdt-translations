@@ -3341,7 +3341,7 @@ msgstr ""
 
 #. heading
 msgid "Create a company"
-msgstr ""
+msgstr "ליצור חברה"
 
 #. {0} click/touch verb
 msgid ""
